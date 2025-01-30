@@ -1,1 +1,1 @@
-# macoscursor
+# MacOS cursor files backup
